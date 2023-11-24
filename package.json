@@ -1,0 +1,18 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"luis lara\"",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "pag": "^1.0.1",
+    "pg": "^8.11.3"
+  }
+}
